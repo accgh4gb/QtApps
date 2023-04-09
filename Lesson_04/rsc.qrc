@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/other/ref">
+        <file>ref.txt</file>
+    </qresource>
+    <qresource prefix="/langs">
+        <file>QLanguage_en.qm</file>
+        <file>QLanguage_ru.qm</file>
+    </qresource>
+</RCC>
