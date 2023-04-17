@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/other/ref">
+        <file>ref.txt</file>
+    </qresource>
+    <qresource prefix="/langs">
+        <file>QLanguage_en.qm</file>
+        <file>QLanguage_ru.qm</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/006close_99893.png</file>
+        <file>img/free-icon-open-file-7603954.png</file>
+        <file>img/free-icon-paper-printer-4388319.png</file>
+        <file>img/free-icon-save-2550221.png</file>
+        <file>img/free-icon-text-alignment-8112957.png</file>
+        <file>img/free-icon-right-text-alignment-57086.png</file>
+        <file>img/free-icon-center-alignment-4662450.png</file>
+        <file>img/free-icon-direct-download-4147026.png</file>
+        <file>img/add.png</file>
+        <file>img/font.png</file>
+    </qresource>
+</RCC>
